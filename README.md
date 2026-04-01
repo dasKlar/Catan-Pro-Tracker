@@ -20,5 +20,5 @@ A professional, lightweight Java Swing application designed to track scores, set
 3. Run the `CatanTracker.java` file.
 
 ## 👨‍💻 Developer
-**Developed by Arda YALIN UCAR**
+**Developed by ARDA YALIN UCAR**
 *This project was created as a high-performance utility tool for Catan enthusiasts.*
