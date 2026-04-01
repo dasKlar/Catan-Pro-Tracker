@@ -15,7 +15,7 @@ A professional, lightweight Java Swing application designed to track scores, set
 - **Architecture:** OOP (Object-Oriented Programming)
 
 ## 🚀 How to Run
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/Catan-Pro-Tracker.git`
+1. Clone the repository: `git clone https://github.com/dasKlar/Catan-Pro-Tracker.git`
 2. Open the project in **IntelliJ IDEA**.
 3. Run the `CatanTracker.java` file.
 
